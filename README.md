@@ -1,6 +1,6 @@
 # Sending Automated Email to each Student in Class
 This repo contains notebook that reads data from Excel spreadsheet and sends automated email to each student along with their marks and other details.
-I used this notebook to share grades with each student in **Machine Learning - Fall 2020** course at [ITU][https://itu.edu.pk/] . 
+I used this notebook to share grades with each student in **Machine Learning - Fall 2020** course at [ITU](https://itu.edu.pk/) . 
 <br>
 <br>
 <p align="center">
